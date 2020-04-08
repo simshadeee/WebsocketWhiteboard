@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WebSocket" type="WebSocket">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/apache-tomee-plus-8.0.1/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
